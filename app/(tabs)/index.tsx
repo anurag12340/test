@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useRouter } from 'expo-router';
-import { TrendingUp, Users, Crown, Zap } from 'lucide-react-native';
+import { TrendingUp, Users, Crown, Zap, Compass } from 'lucide-react-native';
 import { rooms, users } from '@/data/dummyData';
 import { useApp } from '@/contexts/AppContext';
 
